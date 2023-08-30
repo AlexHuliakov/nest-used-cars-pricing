@@ -41,6 +41,10 @@ pnpm run start
 ```
 The application should now be running and ready to accept requests.
 
+## Deploy
+
+The app is deployed using [adaptable.io](adaptable.io) and can be accessed at: `https://nest-used-cars-pricing.adaptable.app`.
+
 ## API Endpoints
 
 Route | Method | Description | Authentication
